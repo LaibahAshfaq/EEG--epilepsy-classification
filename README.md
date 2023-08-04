@@ -94,7 +94,6 @@ Finally, we decided our best model to be the logistic regression with UMAP, base
  
 <img width="728" alt="Screenshot 2023-08-04 at 1 13 08 AM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/8a7cb28f-84f1-4273-8c0f-0cf626a537ac">
 
-<img width="710" alt="Screenshot 2023-08-04 at 1 14 21 AM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/9a09b4ea-e2a4-43ac-a498-90b1309ee5c0">
 
 
 # Model Deployment 
