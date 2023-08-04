@@ -30,6 +30,7 @@ We divided and shuffled every 4097 data points into 23 chunks, now we have 11500
 
 <img width="412" alt="Screenshot 2023-08-04 at 1 09 07 AM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/5f636d85-5ba0-4753-9c5d-a79fe5d2d6e6">
 
+<img width="589" alt="Screenshot 2023-08-02 at 4 10 15 PM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/f7055f5d-2448-42d4-9abf-7318acb3f227">
 
 
 # Feature Extraction
@@ -56,6 +57,11 @@ What led us to use TSFRESH was its comprehensive ability to feature extract a si
 # Models made
 
 # PCA vs UMAP
+<img width="511" alt="Screenshot 2023-08-02 at 1 11 41 PM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/2179a904-3100-4408-b468-2efb956c1215">
+<img width="601" alt="Screenshot 2023-08-02 at 1 11 04 PM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/a1898a53-d05e-43e9-b67e-83fec51f5aab">
+<img width="718" alt="Screenshot 2023-08-02 at 1 10 54 PM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/5a0783a2-d4e9-4b3a-80cb-9f2bff0ae21c">
+
+
 
 # Best Model
 
