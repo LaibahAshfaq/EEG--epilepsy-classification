@@ -1,3 +1,3 @@
 # EEG Scan Classification 
 
-![Functional-EEG-at-Sadar-Psychological](https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/38bb7cfd-7fb3-449a-b52c-f4bf871ae51c)
+<img width="1079" alt="Screenshot 2023-08-04 at 12 42 18 AM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/2a9df6bc-d236-4028-8b5e-93442be22ebc">
