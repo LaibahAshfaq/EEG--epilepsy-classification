@@ -25,12 +25,13 @@ We acquired our data from the UCI Machine learning database.
 The original dataset from the reference consists of  a total of 500 individuals with each has 4097 data points for 23.5 seconds. Each data point is the value of the EEG recording at a different point in time
 
 We divided and shuffled every 4097 data points into 23 chunks, now we have 11500 pieces of information(row), each piece of information contains 178 data points for 1 second(column), the last column represents the target, which is multivariate until we made it binary. so values 2-5 are non epileptic and value 1 is. 2-5 classified scans show scans when the individual has variable activity, so they may have their eyes open, or closed or are asleep, but the scans themselves aren't showing epileptic activity. 
-<img width="429" alt="Screenshot 2023-08-04 at 1 06 54 AM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classificatio<img width="425" alt="Screenshot 2023-08-04 at 1 07 13 AM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/703413f3-cb69-407c-bc44-bb2dd158a9fd">
+<img width="429" alt="Screenshot 2023-08-04 at 1 06 54 AM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classificatio
+<img width="425" alt="Screenshot 2023-08-04 at 1 07 13 AM" src="https://github.com/LaibahAshfaq/EEG--epilepsy-classification/assets/128645674/703413f3-cb69-407c-bc44-bb2dd158a9fd">
 n/assets/128645674/6ce0f986-a5a7-4dbc-837e-bb173db3289f">
 
 # Feature Extraction
 TSFRESH also known as  (Time Series Feature Extraction on Basis of Scalable Hypothesis) thats a mouthful is a package that extracts a wide range of features from time series data.  Here are some of the features that TSFRESH can extract:
-Spectral entropyis a measure of signal irregularity. is often used in various applications, such as speech recognition, music analysis, and biomedical signal processing (e.g., analyzing EEG or ECG signals). 
+Spectral entropy is a measure of signal irregularity. is often used in various applications, such as speech recognition, music analysis, and biomedical signal processing (e.g., analyzing EEG or ECG signals). 
 
 and then there are the none domain-specific features such as local minima/ maxima and the height of peaks, which are relevant to all time series analysis.
 
